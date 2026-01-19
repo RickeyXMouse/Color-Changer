@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    height: 100px;
+    width: 150px;
+    font-size: 2em;
+}
+
+.white-text {
+    color: white;
+}
